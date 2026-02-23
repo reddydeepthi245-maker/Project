@@ -87,7 +87,7 @@ function AuthScreen({ onLogin }) {
         {/* Logo */}
         <div style={{ textAlign: "center", marginBottom: 28 }}>
           <div style={{ fontSize: 48 }}>💰</div>
-          <div style={{ fontSize: 26, fontWeight: 700, color: "#0D47A1", marginTop: 8 }}>FinanceOS</div>
+          <div style={{ fontSize: 26, fontWeight: 700, color: "#0D47A1", marginTop: 8 }}>Budget Buddy</div>
           <div style={{ fontSize: 12, color: "#90A4AE", letterSpacing: 2, marginTop: 4 }}>PERSONAL BUDGET TRACKER</div>
         </div>
 
